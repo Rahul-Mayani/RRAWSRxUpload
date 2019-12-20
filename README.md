@@ -1,5 +1,5 @@
 # RRAWSRxUpload
-Multiple image uploading on AWS S3 by RxSwift
+Multiple image uploading on AWS S3 server by RxSwift
 
 ## Requirements
 
